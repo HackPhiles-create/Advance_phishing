@@ -13,7 +13,7 @@ $git clone https://github.com/Ignitetch/AdvPhishing.git
 
 $ls
 
-$cd AdvPhishing/
+$cd AdvPhishing
 
 $chmod 777 start.sh
 
