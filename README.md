@@ -2,6 +2,8 @@
 
 🔴FOLLOW My Commends🔴
 
+💻Desktop Mode On Please💻
+
 $pkg update
 
 
