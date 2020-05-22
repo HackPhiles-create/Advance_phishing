@@ -15,6 +15,8 @@ $cd AdvPhishing/
 
 $chmod 777 start.sh
 
+$ls
+
 $./start.sh
 
 $ls
